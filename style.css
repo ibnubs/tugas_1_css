@@ -1,0 +1,22 @@
+h1{
+    color: green;
+    padding-left: 50px;
+}
+
+h2{
+    color: red;
+}
+
+p{
+    color: blue;
+    font-size: 18px;
+
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+
+/* CSS adalah sebuah pewarna bagi website sehingga tampilan html akan menjadi lebih indah */
